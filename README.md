@@ -1,10 +1,12 @@
 ## Hi! My name is Khanh-Thu Ngo 👋
 
-:rabbit2: I am a CS & Maths junior @Mount Holyoke College.  
+:book: I am a CS & Maths junior @Mount Holyoke College.  
 
-:hatching_chick: I’m passionate about full-stack development and the challenge of scaling applications into high-performing distributed systems. Right now, I’m learning how to build backend systems that use AI/ML effectively and deploy them at scale.
+:anatomical_heart: I’m passionate about full-stack development and the challenge of scaling these applications into high-performing distributed systems. 
 
-:monkey: Feel free to shoot me a message @ khanhthungo2028@gmail.com
+:baby_bottle: Right now, I’m working on fun side projects outside of class to learn how to design backend systems that use AI/ML effectively and deploy them at scale.
+
+:phone: If you are interested in chatting or collaborating, feel free to shoot me a message @ khanhthungo2028@gmail.com! 
 
 ## Technologies I've worked with
 
