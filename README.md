@@ -11,14 +11,14 @@
 ## Some Technologies I've worked with
 
 <h4>Backend</h4>
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,cs,spring,flask,fastapi,django,nodejs,express,nextjs,react,tailwind,prisma,html,css" />
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,cs,spring,flask,fastapi,django,nodejs,express,nextjs,react,prisma" />
 
-<h4>DevOps</h4>
+<h4>Cloud & DevOps</h4>
 <img src="https://skillicons.dev/icons?i=aws,netlify,docker,githubactions,git,postman,playwright" />
 
 <h4>Databases</h4>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
 
-<h4>Systems</h4>
+<h4>Messaging & Systems</h4>
 <img src="https://skillicons.dev/icons?i=c,linux,bash,rabbitmq,firebase,socketio" />
 
