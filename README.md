@@ -1,8 +1,8 @@
-## Ahoy! My name is Thu Ngo 👋
+## Hi! My name is Khanh-Thu Ngo 👋
 
 :rabbit2: I am a junior @Mount Holyoke College.  
 
-:hatching_chick: I'm currently interested in full-stack development, distributed systems, infrastructure and machine learning. 
+:hatching_chick: I'm currently interested in full-stack development, distributed systems, and machine learning. 
 
 :monkey: Feel free to shoot me a message @ ngo224t@mtholyoke.edu! 
 
