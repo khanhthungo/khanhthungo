@@ -1,4 +1,4 @@
-## Hi! My name is Khanh-Thu Ngo 👋
+## Hi! My Name Is Khanh-Thu Ngo 👋
 
 :book: I am a CS & Maths junior @Mount Holyoke College.  
 
@@ -8,7 +8,7 @@
 
 :phone: If you are interested in chatting or collaborating, feel free to shoot me a message @ khanhthungo2028@gmail.com! 
 
-## Some Technologies I've worked with
+## Some Technologies I've Worked With
 
 <h4>Languages & Full-Stack</h4>
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,cs,spring,flask,fastapi,django,nodejs,express,nextjs,react,prisma,tailwind" />
