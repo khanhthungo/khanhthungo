@@ -10,8 +10,8 @@
 
 ## Some Technologies I've worked with
 
-<h4>Full-Stack</h4>
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,cs,spring,flask,fastapi,django,nodejs,express,nextjs,react,prisma,html,css" />
+<h4>Languages & Full-Stack</h4>
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,cs,spring,flask,fastapi,django,nodejs,express,nextjs,react,prisma,tailwind" />
 
 <h4>Cloud & DevOps</h4>
 <img src="https://skillicons.dev/icons?i=aws,netlify,docker,githubactions,git,postman,playwright" />
