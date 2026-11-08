@@ -3,6 +3,7 @@
 :rabbit2: I am a CS & Maths junior @Mount Holyoke College.  
 
 :hatching_chick: I’m passionate about full-stack development and the challenge of scaling applications into high-performing distributed systems. Right now, I’m learning how to build backend systems that use AI/ML effectively and deploy them at scale.
+
 :monkey: Feel free to shoot me a message @ khanhthungo2028@gmail.com
 
 ## Technologies I've worked with
