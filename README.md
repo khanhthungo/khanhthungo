@@ -4,14 +4,21 @@
 
 :anatomical_heart: I’m passionate about full-stack development and the challenge of scaling these applications into high-performing, fault-tolerant distributed systems. 
 
-:baby_bottle: Right now, I’m working on fun side projects outside of class to learn how to design backend systems that leverages the latest AI/ML tech and deploy them at scale. 
+:baby_bottle: Right now, I’m working on fun side projects outside of class to learn how to design backend systems that leverage the latest AI/ML tech and deploy them at scale. 
 
 :phone: If you are interested in chatting or collaborating, feel free to shoot me a message @ khanhthungo2028@gmail.com! 
 
-## Technologies I've worked with
+## Some Technologies I've worked with
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,css,html,react,flask,spring,express,nextjs,postgres,mongo,aws,redis,docker" />
-  </a>
-</p>
+<h4>Backend</h4>
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,cs,spring,flask,fastapi,django,nodejs,express,nextjs,react,tailwind,prisma,html,css" />
+
+<h4>DevOps</h4>
+<img src="https://skillicons.dev/icons?i=aws,netlify,docker,githubactions,git,postman,playwright" />
+
+<h4>Databases</h4>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
+
+<h4>Systems</h4>
+<img src="https://skillicons.dev/icons?i=c,linux,bash,rabbitmq,firebase,socketio" />
+
