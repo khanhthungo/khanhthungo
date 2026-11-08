@@ -2,9 +2,9 @@
 
 :book: I am a CS & Maths junior @Mount Holyoke College.  
 
-:anatomical_heart: I’m passionate about full-stack development and the challenge of scaling these applications into high-performing distributed systems. 
+:anatomical_heart: I’m passionate about full-stack development and the challenge of scaling these applications into high-performing, fault-tolerant distributed systems. 
 
-:baby_bottle: Right now, I’m working on fun side projects outside of class to learn how to design backend systems that use AI/ML effectively and deploy them at scale.
+:baby_bottle: Right now, I’m working on fun side projects outside of class to learn how to design backend systems that leverages the latest AI/ML tech and deploy them at scale. 
 
 :phone: If you are interested in chatting or collaborating, feel free to shoot me a message @ khanhthungo2028@gmail.com! 
 
